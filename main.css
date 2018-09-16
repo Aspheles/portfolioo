@@ -24,6 +24,7 @@ li {
    width: 90%;
    font-size: 150%;
    position: fixed;
+   background: #0e0e0e;
  
     
 
@@ -48,7 +49,8 @@ body {
 
 width: 100%;
 background: #0e0e0e;
-overflow: hidden;
+
+
 
 }
 
@@ -78,7 +80,7 @@ font-size: 48px;
 p {
 
 color: #fff;
-font-size: 16px;
+font-size: 18px;
 font-weight: 300;
 }
 
@@ -147,7 +149,7 @@ margin-top: 10px;
 
 
     
-    margin: 70px 0 120px 120px;
+    margin: 300px 0 120px 120px;
 
 }
 
@@ -182,7 +184,7 @@ margin: 60px auto;
 
 
     
-    margin: 70px 0 120px 120px;
+    margin: 300px 0 120px 120px;
 
 }
 
@@ -206,7 +208,7 @@ margin: 60px auto;
 
 
     
-    margin: 70px 0 120px 120px;
+    margin: 300px 0 120px 120px;
 
 }
 
@@ -225,3 +227,44 @@ margin: 60px auto;
     width: 84%;
 
  }
+
+ .header5 {
+
+
+    
+    margin: 300px 0 120px 120px;
+
+}
+
+ /* .work4 */
+
+ .work5 {
+
+    width: 100%;
+    text-align: center;
+
+
+ }
+
+ .pizzacal {
+
+margin: 1%;
+width: 53%;
+
+ }
+
+ 
+
+ 
+
+ .work5p {
+
+
+    margin: 70px 0 120px 10px;
+    padding-left: 30px;
+    
+
+
+ }
+
+ 
